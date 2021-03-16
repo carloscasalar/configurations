@@ -1,0 +1,24 @@
+{
+  "name": "@carloscasalar/ts-config",
+  "version": "0.0.0",
+  "description": "Base configuration for typescript projects",
+  "tsconfig": "tsconfig.json",
+  "skipBuild": true,
+  "keywords": [
+    "typescript",
+    "config"
+  ],
+  "author": "Carlos Castillo",
+  "homepage": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "true",
+    "dist": "true",
+    "dist:watch": "true",
+    "prepublishOnly": "npm run dist",
+    "prerelease": "npm version prerelease"
+  },
+  "peerDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
