@@ -9,7 +9,10 @@
     "config"
   ],
   "author": "Carlos Castillo",
-  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:carloscasalar/configurations.git"
+  },
   "license": "ISC",
   "scripts": {
     "test": "true",
