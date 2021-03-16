@@ -1,6 +1,6 @@
 {
   "name": "@carloscasalar/ts-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Base configuration for typescript projects",
   "tsconfig": "tsconfig.json",
   "skipBuild": true,
