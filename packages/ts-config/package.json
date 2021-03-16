@@ -1,5 +1,6 @@
 {
   "name": "@carloscasalar/ts-config",
+  "private": false,
   "version": "1.0.0",
   "description": "Base configuration for typescript projects",
   "tsconfig": "tsconfig.json",
@@ -23,5 +24,6 @@
   },
   "peerDependencies": {
     "typescript": "^4.1.2"
-  }
+  },
+  "gitHead": "a35e53c8f710306eff38e5f73ea1d711bd0d2bb7"
 }
