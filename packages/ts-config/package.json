@@ -25,5 +25,8 @@
   "peerDependencies": {
     "typescript": "^4.1.2"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "gitHead": "a35e53c8f710306eff38e5f73ea1d711bd0d2bb7"
 }
