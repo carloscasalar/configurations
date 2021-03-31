@@ -13,6 +13,6 @@ yarn add -D @carloscasalar/ts-config
 Then you can extend your `tsconfig.json` from this:
 ```json 
 {
-  "extends": "@cabify-dev/tsconfig",
+  "extends": "@carloscasalar/tsconfig",
 }
 ```
