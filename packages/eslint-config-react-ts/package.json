@@ -1,0 +1,22 @@
+{
+  "name": "@carloscasalar/eslint-config-react-ts",
+  "version": "0.0.0",
+  "description": "Eslint configuration for react projects with typescript",
+  "main": "index.js",
+  "repository": "git@github.com:carloscasalar/configurations.git",
+  "author": "@carloscasalar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.20.0",
+    "@typescript-eslint/parser": "^4.20.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.3.2",
+    "eslint-plugin-prettier": "^3.3.1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 7",
+    "prettier": ">= 2"
+  }
+}
