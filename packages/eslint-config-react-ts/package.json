@@ -2,6 +2,12 @@
   "name": "@carloscasalar/eslint-config-react-ts",
   "version": "1.0.0",
   "description": "Eslint configuration for react typescript projects",
+  "keywords": [
+    "typescript",
+    "eslint",
+    "lint",
+    "react"
+  ],
   "main": "index.js",
   "repository": "git@github.com:carloscasalar/configurations.git",
   "author": "Carlos Castillo",
