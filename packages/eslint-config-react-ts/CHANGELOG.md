@@ -1,4 +1,4 @@
 # Changelog
 
-## 1.0.0 ?
-Create eslint configuration
+## 1.0.0 2021-03-31
+Create eslint configuration.

@@ -1,7 +1,7 @@
 {
   "name": "@carloscasalar/eslint-config-react-ts",
   "version": "0.0.0",
-  "description": "Eslint configuration for react projects with typescript",
+  "description": "Eslint configuration for react typescript projects",
   "main": "index.js",
   "repository": "git@github.com:carloscasalar/configurations.git",
   "author": "Carlos Castillo",
